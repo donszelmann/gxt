@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.extjs</groupId>
+    <artifactId>gxt</artifactId>
+    <packaging>jar</packaging>
+    <name>Ext GWT</name>
+    <version>2.1.1</version>
+
+    <url>http://extjs.com/products/gxt</url>
+    
+    <description>Rich Internet Application Framework for GWT</description>
+
+    <licenses>
+        <license>
+            <name>GNU GPL license v3</name>
+            <url>http://www.gnu.org/copyleft/gpl.html</url>
+        </license>
+        <license>
+            <name>Commercial License</name>
+            <url>http://extjs.com/store/extjs/license.php</url>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:svn:http://code.extjs.com/svn/gxt/trunk</connection>
+        <url>http://code.extjs.com/svn/gxt/trunk</url>
+    </scm>
+</project>
+
